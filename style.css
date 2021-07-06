@@ -1,0 +1,22 @@
+.menu{
+display: flex;
+justify-content: left;
+font-size: 20px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-weight: 400;
+color: white;
+
+}
+
+.grid img{
+    border:2px solid palevioletred;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: burlywood;
+
+    width: 310px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
